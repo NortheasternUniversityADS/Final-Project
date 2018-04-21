@@ -14,4 +14,4 @@
 
 * [Algorithm after feature selection](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Algorithms%20after%20feature%20selection.ipynb) - After feature selection is performed, we are removing less important features from our dataset and running the model again.
 
-**NOTE:** Next Step is to proceed with Feature engineering and feature selection and running our selected algorithms on in. 
+**NOTE:** Next Step is to proceed with Flask and automating our model.
