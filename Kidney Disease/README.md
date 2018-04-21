@@ -1,10 +1,12 @@
 ## Kidney Disease
 
 ## Week 1
+
+* [kidney_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/kidney_disease.csv) is the csv which which we are using in our model.
+
 * We have done initial stage of `EDA` which can be found [here](https://public.tableau.com/profile/nitin.prince.reuben#!/vizhome/CKD-ADSProject_2/Dashboard1?publish=yes).
 
 ## Week 2
-* [kidney_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/kidney_disease.csv) is the csv which which we are using in our model.
 
 * [Data Cleaning](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Data%20Cleaning.ipynb) contains data and code which is used to remove all missing data from our dataset. 
 
