@@ -1,5 +1,9 @@
 ## Kidney Disease
 
+## Week 1
+* We have done initial stage of `EDA` which can be found [here](https://public.tableau.com/profile/nitin.prince.reuben#!/vizhome/CKD-ADSProject_2/Dashboard1?publish=yes).
+
+## Week 2
 * [kidney_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/kidney_disease.csv) is the csv which which we are using in our model.
 
 * [Data Cleaning](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Data%20Cleaning.ipynb) contains data and code which is used to remove all missing data from our dataset. 
@@ -14,4 +18,5 @@
 
 * [Algorithm after feature selection](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Algorithms%20after%20feature%20selection.ipynb) - After feature selection is performed, we are removing less important features from our dataset and running the model again.
 
+## Week 3
 **NOTE:** Next Step is to proceed with Flask and automating our model.
