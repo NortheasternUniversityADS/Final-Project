@@ -2,15 +2,7 @@
 <div align="center">
   <strong>Health Analysis  :sparkling_heart: </strong>
 </div>
-
-
-<div align="center">
-  <!-- Stability -->
-  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
-    <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
-      alt="API stability" />
-  </a>
-  
+<h2 align="center">Health Analysis  :sparkling_heart:</h2>
  <div align="center">
   <sub>Built by
   <a href="jagtap.ak@husky.neu.edu">Akash Jagtap</a> and
