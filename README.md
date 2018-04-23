@@ -1,10 +1,8 @@
 <h1 align="center">Project for ADS INFO 7390</h1>
 <div align="center">
-  <strong>Health Analysis</strong>
+  <strong>Health Analysis  :sparkling_heart: </strong>
 </div>
-<div align="center">
-  :sparkling_heart::volcano::train::train::train::train:
-</div>
+
 
 <div align="center">
   <!-- Stability -->
@@ -13,33 +11,11 @@
       alt="API stability" />
   </a>
   
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/choojs/choo">
-    <img src="https://img.shields.io/travis/choojs/choo/master.svg?style=flat-square"
-      alt="Build Status" />
-  </a>
-  <!-- Test Coverage -->
-  <a href="https://codecov.io/github/choojs/choo">
-    <img src="https://img.shields.io/codecov/c/github/choojs/choo/master.svg?style=flat-square"
-      alt="Test Coverage" />
-  </a>
-  <!-- Downloads -->
-  <a href="https://npmjs.org/package/choo">
-    <img src="https://img.shields.io/npm/dt/choo.svg?style=flat-square"
-      alt="Downloads" />
-  </a>
-  <!-- Standard -->
-  <a href="https://standardjs.com">
-    <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"
-      alt="Standard" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Built with by
-  <a href="https://twitter.com/yoshuawuyts">Yoshua Wuyts</a> and
-  <a href="https://github.com/choojs/choo/graphs/contributors">
-    contributors
+ <div align="center">
+  <sub>Built by
+  <a href="jagtap.ak@husky.neu.edu">Akash Jagtap</a> and
+  <a href="rajan.j@husky.neu.edu">Jerin Rajan</a> and
+     <a href="reuben.n@husky.neu.edu"> Nitin Pricne Reuben
   </a>
 </div>
 
