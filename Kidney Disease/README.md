@@ -4,13 +4,13 @@
 
 * [kidney_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/kidney_disease.csv) is the csv which which we are using in our model.
 
-* We have done initial stage of `EDA` which can be found [here](https://public.tableau.com/profile/nitin.prince.reuben#!/vizhome/CKD-ADSProject_2/Dashboard1?publish=yes).
+* [EDA](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/EDA.ipynb) contains the graphs and all the details which we received during `Exploratory Data Analysis`
 
 ## Week 2
 
-* [Data Cleaning](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Data%20Cleaning.ipynb) contains data and code which is used to remove all missing data from our dataset. 
+* [Data Cleaning](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Data%20Cleaning.ipynb) contains data and code which is used to remove all `missing data` from our dataset. 
 
-* [ckd.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/ckd.csv) is the final dataset which we got after data cleaning and this is the model which we are going to use from now onwards.
+* [ckd.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/ckd.csv) is the final dataset which we got after `data cleaning` and this is the dataset which we are going to use from now onwards.
 
 * [Algorithm before feature selection](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Kidney%20Disease/Algorithms%20before%20feature%20selection.ipynb) contains list of all the `algorithms` which is used in our model.
 
