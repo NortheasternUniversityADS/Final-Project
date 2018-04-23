@@ -8,7 +8,7 @@ By **Team 5**
 
 ## Health Analysis
 
-[![Aimeos TYPO3 demo](http://s3.amazonaws.com/e4healthinc/wp-content/uploads/2016/03/16130531/medical_medium.png)
+![Aimeos TYPO3 demo](http://s3.amazonaws.com/e4healthinc/wp-content/uploads/2016/03/16130531/medical_medium.png)
 
 * Team proposal can be found [here](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Health%20Analysis.pdf).
 
