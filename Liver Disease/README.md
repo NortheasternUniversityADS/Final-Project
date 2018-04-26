@@ -4,7 +4,7 @@
 
 * [liver_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Liver%20Disease/liver_disease.csv) is the csv which which we are using in our model.
 
-* We have done initial stage of `EDA` which can be found [here](https://public.tableau.com/profile/nitin.prince.reuben#!/vizhome/CKD-ADSProject_2/Dashboard1?publish=yes).
+* [EDA](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Liver%20Disease/EDA.ipynb) consists of code of Exploratory Data Analysis.
 
 * [Data Cleaning](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Liver%20Disease/Data%20Cleaning.ipynb) contains data and code which is used to remove all missing data from our dataset. 
 
