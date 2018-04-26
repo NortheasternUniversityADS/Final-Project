@@ -15,3 +15,5 @@ By **Team 5**
 * Data and files related to **Kidney Disease** can be found [here](https://github.com/NortheasternUniversityADS/Final-Project/tree/master/Kidney%20Disease). 
 
 * Data and files related to **Liver Disease** can be found [here](https://github.com/NortheasternUniversityADS/Final-Project/tree/master/Liver%20Disease).
+
+* Data and files related to **Diabetes** can be found [here](https://github.com/NortheasternUniversityADS/Final-Project/tree/master/Diabetes).
