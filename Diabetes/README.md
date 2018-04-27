@@ -1,7 +1,7 @@
 ## Diabetes
 
 
-* [liver_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Diabetes/diabetes1.csv) is the csv which which we are using in our model.
+* [diabetes1.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Diabetes/diabetes1.csv) is the csv which which we are using in our model.
 
 * [EDA](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Diabetes/EDA.ipynb) consists of code of Exploratory Data Analysis.
 
