@@ -17,3 +17,28 @@ By **Team 5**
 * Data and files related to **Liver Disease** can be found [here](https://github.com/NortheasternUniversityADS/Final-Project/tree/master/Liver%20Disease).
 
 * Data and files related to **Diabetes** can be found [here](https://github.com/NortheasternUniversityADS/Final-Project/tree/master/Diabetes).
+
+
+## Week 1
+
+* We started with going through our first dataset on Kidney Disease.
+
+* We performed EDA, data cleaning and feature selection on the data.
+
+## Week 2
+
+* We ran algorithms on our dataset.
+
+* We starting working on Flask by creating UI.
+
+## Week 3
+
+* We completed Flask.
+
+* We started searching new dataset and found datasets on liver disease and Diabetes.
+
+* We went through the new dataset. Performed EDA, data claening, feature selection on it.
+
+* We ran algorithms in those dataset.
+
+* We intregrated them with our model.
