@@ -1,7 +1,5 @@
 ## Kidney Disease
 
-## Week 3
-
 * [liver_disease.csv](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Liver%20Disease/liver_disease.csv) is the csv which which we are using in our model.
 
 * [EDA](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Liver%20Disease/EDA.ipynb) consists of code of Exploratory Data Analysis.
@@ -18,4 +16,3 @@
 
 * [Algorithm after feature selection](https://github.com/NortheasternUniversityADS/Final-Project/blob/master/Liver%20Disease/Algorithms%20after%20feature%20selection.ipynb) - After feature selection is performed, we are removing less important features from our dataset and running the model again.
 
-**NOTE:** Next Step is to proceed with Flask and automating our model.
